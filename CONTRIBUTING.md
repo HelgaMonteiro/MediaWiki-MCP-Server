@@ -24,3 +24,4 @@ Notes and usage details for MediaWiki-MCP-Server.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
